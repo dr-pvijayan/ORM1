@@ -17,7 +17,15 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 cars
 
 # PROGRAM
+'''
+asfasdfsds
+
+asdfasdf
+
+'''
 # OUTPUT
+![alt text](image.png)
+
 Include the screenshot of your admin page.
 
 # RESULT
